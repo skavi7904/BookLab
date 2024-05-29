@@ -2,7 +2,7 @@
 
 Welcome to Book Lab, your personal space for keeping notes on your favorite books! This web application allows you to organize and manage your book collection with ease.
 
-Visit the live demo: [Book Lab](https://skavi7904.github.io/BookLab/)
+Visit the live demo: [Book Lab]([https://skavi7904.github.io/BookLab/](https://book-lab-beryl.vercel.app/))
 
 ## Features
 
@@ -24,7 +24,7 @@ To get started with Book Lab, follow these steps:
 
 ## Usage
 
-1. Open the web application by visiting [Book Lab](https://skavi7904.github.io/BookLab/).
+1. Open the web application by visiting [Book Lab]([https://skavi7904.github.io/BookLab/](https://book-lab-beryl.vercel.app/)).
 2. Click on the "+" button to add a new book.
 3. Fill in the book details in the popup form and click on the "ADD" button.
 4. The added book will appear in the main container.
